@@ -1,44 +1,37 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Andi Milo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Andi Milo
+QA/QC infrastructure engineer , Data Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="andi.milo@gmail.com">andi.milo@gmail.com</a>
+| <a href="">+355697007633</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working on railway rehabilitation of line Tirane Durres.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+QA/QC related field,Management ,Infrastructure
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1999-2003`
+__Naim Frasheri high School, Durres__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2003-2008`
+__Civil Engineering Faculty,Tirana__
 
 
 
@@ -86,6 +79,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2024 -->
 
 
